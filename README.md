@@ -1,6 +1,6 @@
 # process-bar
 
-## Docs <a href="./dist">Docs</a>
+## <a href="https://icefee.github.io/process-bar/">Docs</a>
 
 ## Project setup
 ```
