@@ -1,2 +1,2 @@
 # process-bar
-a process component. component.
+a process component for vuejs.
