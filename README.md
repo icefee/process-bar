@@ -1,5 +1,7 @@
 # process-bar
 
+## Docs <a href="./dist">Docs</a>
+
 ## Project setup
 ```
 npm install
